@@ -1,0 +1,22 @@
+{
+  "name": "electron-system-tray-demo",
+  "version": "1.0.0",
+  "description": "Electron app demoing the native system tray \r # Dependencies\r 1. [Node]\r # Instructions\r 1. clone this repo\r 2. run `npm i`\r 3. run `npm start`",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "electron ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashaunthomas/electron-system-tray-demo.git"
+  },
+  "author": "Ashaun Thomas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashaunthomas/electron-system-tray-demo/issues"
+  },
+  "homepage": "https://github.com/ashaunthomas/electron-system-tray-demo#readme",
+  "devDependencies": {
+    "electron": "^25.0.0"
+  }
+}
